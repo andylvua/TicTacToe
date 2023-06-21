@@ -1,0 +1,18 @@
+/* Apply global styles */
+QPushButton {
+    font-size: 15px;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+QPushButton#startButton {
+    color: #2b942d;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #3a3a3a;
+}
